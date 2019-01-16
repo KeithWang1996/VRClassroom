@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 231d4efe67ac670439698a1e857e4488
+timeCreated: 1518064011
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - desk: {fileID: 1557039114749740, guid: f73b80829075f2e4a8ed6a9cb45d7958, type: 2}
+  - highlight: {fileID: 2100000, guid: 89d343d959de1774a83561acb7fe53d0, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
